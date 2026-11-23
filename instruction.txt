@@ -1,0 +1,3 @@
+Use the standard ROAR competition environment with CARLA 0.9.12 and Berkeley Monza v1.1.
+Start the Monza server on localhost:2000, then run python competition_runner.py from competition_code.
+The agent uses NumPy from the competition environment. Its policy weights and waypoint data are included.
